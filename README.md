@@ -5,4 +5,5 @@ http://localhost:9988/cook-service/prod
 
 
 IN VM value set for client application 
+
 -Dspring.profiles.active=qa
